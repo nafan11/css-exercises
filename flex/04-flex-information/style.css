@@ -14,20 +14,15 @@ img {
   margin-bottom: 32px;
 }
 
-.plants {
+.flex-container {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   gap: 52px;
 }
 
-.plant-type {
-  max-width: 200px;
-}
-
 .text {
+  max-width: 200px;
   text-wrap: wrap;
-  text-align: center;
-  flex-basis: auto;
 }
 
 /* do not edit this footer */
